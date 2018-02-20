@@ -1,0 +1,2 @@
+# pacmanprj
+make pacman lose
